@@ -1,6 +1,10 @@
+Python 3.8+
 mediapipe
 opencv-python
 scikit-learn
 pandas
 numpy
 seaborn
+TensorFlow
+Tkinter
+gTTS / pyttsx3
